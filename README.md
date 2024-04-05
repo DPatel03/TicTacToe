@@ -25,5 +25,3 @@ Understanding Java and OOP concepts:
 ## Conclusion
 
 This Tic Tac Toe game provides a simple introduction to Java programming and OOP concepts. By working with this code, you can gain a better understanding of OOP principles and improve your programming skills.
-
-Feel free to explore and modify the code to enhance your learning experience!
